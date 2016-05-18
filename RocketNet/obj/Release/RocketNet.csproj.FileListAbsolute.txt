@@ -1,0 +1,20 @@
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\bin\Release\RocketNet.dll
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\bin\Release\RocketNet.pdb
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\bin\Release\Microsoft.CSharp.dll
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\bin\Release\System.Data.dll
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\bin\Release\System.Xml.dll
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\bin\Release\System.Xml.Linq.dll
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\obj\Release\RocketNet.dll
+C:\Users\Can\Google Drive\Projelerim\RocketNet\RocketNet\obj\Release\RocketNet.pdb
+D:\Projelerim\RocketNet\RocketNet\obj\Release\RocketNet.dll
+D:\Projelerim\RocketNet\RocketNet\obj\Release\RocketNet.pdb
+D:\Projelerim\RocketNet\RocketNet\bin\Release\RocketNet.dll
+D:\Projelerim\RocketNet\RocketNet\bin\Release\RocketNet.pdb
+D:\Projelerim\RocketNet\RocketNet\bin\Release\Microsoft.CSharp.dll
+D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Data.DataSetExtensions.dll
+D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Data.dll
+D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Net.Http.dll
+D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Xml.dll
+D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Xml.Linq.dll
+D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Net.Http.xml

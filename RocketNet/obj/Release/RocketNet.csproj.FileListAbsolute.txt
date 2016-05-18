@@ -18,3 +18,4 @@ D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Net.Http.dll
 D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Xml.dll
 D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Xml.Linq.dll
 D:\Projelerim\RocketNet\RocketNet\bin\Release\System.Net.Http.xml
+D:\Projelerim\RocketNet\RocketNet\obj\Release\RocketNet.csprojResolveAssemblyReference.cache
